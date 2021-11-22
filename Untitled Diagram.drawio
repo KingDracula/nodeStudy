@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T03:15:42.263Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3877.400 QQBrowser/10.8.4508.400" etag="MbxH4Cqo_u3_QQZNd2GF" version="15.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-22T03:15:55.252Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3877.400 QQBrowser/10.8.4508.400" etag="IzBGjx0R_TA1rOCkaFjG" version="15.8.3" type="github" pages="2">
   <diagram id="Q2_9AQLTbUxxxYIQFxCd" name="Page-1">
-    <mxGraphModel dx="1093" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,14 +190,6 @@
         <mxCell id="UMeSr6DBONTCVmWDwUXn-2" value="自动将注册到网关的API进行发布" style="whiteSpace=wrap;html=1;" vertex="1" parent="KzIgHV3jRO6sCPjwYxui-1">
           <mxGeometry x="61" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="xNmHdJDMxVP9FZxVf5kX" name="Page-2">
-    <mxGraphModel dx="1038" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="UHMck5Mz4kBWA1REXlxc-0" />
-        <mxCell id="UHMck5Mz4kBWA1REXlxc-1" parent="UHMck5Mz4kBWA1REXlxc-0" />
       </root>
     </mxGraphModel>
   </diagram>
